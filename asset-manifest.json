@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vibe-Check/static/css/main.f4c624fa.css",
+    "main.js": "/Vibe-Check/static/js/main.88b677b5.js",
+    "index.html": "/Vibe-Check/index.html",
+    "main.f4c624fa.css.map": "/Vibe-Check/static/css/main.f4c624fa.css.map",
+    "main.88b677b5.js.map": "/Vibe-Check/static/js/main.88b677b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c624fa.css",
+    "static/js/main.88b677b5.js"
+  ]
+}
